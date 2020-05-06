@@ -1,0 +1,2 @@
+# HandwrittenWordRecognitionRACE
+Handwritten Word Recognition
